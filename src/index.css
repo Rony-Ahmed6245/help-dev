@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.unic {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+}
+
+.bgimg1 {
+    /* background-image: url('../src/assets/pngegg.png');
+    background-color; */
+    background: linear-gradient( 45deg, #f3e9e9, #dbdbdb, #ffffff, #dbdbdb,#ffffff, rgb(214, 214, 214));
+
+
+
+}
+
+.blr {
+    background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+
+}
+
